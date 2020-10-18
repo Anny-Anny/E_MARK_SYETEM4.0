@@ -1,0 +1,65 @@
+{
+  "id": "2130495",
+  "name": "遥感标记系统",
+  "font_family": "iconfontxjw",
+  "css_prefix_text": "icxjw",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3472607",
+      "name": "数据输出",
+      "font_class": "shujushuchu",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "7985468",
+      "name": "个性化",
+      "font_class": "gexinghua",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "9017016",
+      "name": "导入数据",
+      "font_class": "daorushuju",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "6131555",
+      "name": "工具箱",
+      "font_class": "gongjuxiang",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "2008260",
+      "name": "测量",
+      "font_class": "celiang1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3001049",
+      "name": "标记",
+      "font_class": "biaoji",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "431429",
+      "name": "遥感图像数据库",
+      "font_class": "yaogantuxiangshujuku",
+      "unicode": "e997",
+      "unicode_decimal": 59799
+    },
+    {
+      "icon_id": "7547595",
+      "name": "删除图层",
+      "font_class": "shanchutuceng",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    }
+  ]
+}
